@@ -19,5 +19,8 @@
   "license": "MIT",
   "devDependencies": {
     "mdx-deck": "1.5.15"
+  },
+  "dependencies": {
+    "styled-components": "3.4.2"
   }
 }
