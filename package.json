@@ -4,7 +4,7 @@
   "description": "Ten facts about me.",
   "main": "index.js",
   "scripts": {
-    "start": "mdx-deck deck.mdx",
+    "start": "mdx-deck deck.mdx -p 9090",
     "build": "npm run build:site && npm run build:pdf",
     "build:site": "mdx-deck build deck.mdx",
     "build:pdf": "mdx-deck pdf deck.mdx"
