@@ -1,6 +1,6 @@
 {
   "name": "ten-facts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ten facts about me.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "Scott Spence <spences10apps@gmail.com> (https://scottspence.me/)",
   "license": "MIT",
   "devDependencies": {
-    "mdx-deck": "1.6.2",
+    "mdx-deck": "1.6.3",
     "styled-components": "3.4.2"
   },
   "dependencies": {}
