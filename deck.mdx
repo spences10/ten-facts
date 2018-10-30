@@ -1,5 +1,17 @@
-export {default as theme} from './theme'
-import {Appear} from 'mdx-deck'
+export { default as theme } from './src/index'
+import { Head, Appear } from 'mdx-deck'
+
+<Head>
+  <title>Scott Spence | Ten Facts</title>
+  <link
+    href="https://fonts-for-the-font-god.netlify.com/dank-mono.css?family=dm"
+    rel="stylesheet"
+  />
+  <link
+    href={require('file-loader!./static/favicon.png')}
+    rel="shortcut icon"
+  />
+</Head>
 
 # hello world! 
 

@@ -1,5 +1,4 @@
 import theme from 'mdx-deck/themes'
-import './font'
 
 export default {
   // extends the default theme
