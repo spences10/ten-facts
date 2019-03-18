@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "mdx-deck deck.mdx -p 9090",
-    "build": "npm run build"
+    "build": "mdx-deck build deck.mdx"
   },
   "keywords": [
     "ten",
