@@ -1,6 +1,6 @@
 {
   "name": "ten-facts",
-  "version": "1.0.52",
+  "version": "1.0.53",
   "description": "Ten facts about me.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "license": "MIT",
   "devDependencies": {
     "file-loader": "4.1.0",
-    "mdx-deck": "2.5.1",
+    "mdx-deck": "3.0.7",
     "styled-components": "4.3.2"
   },
   "dependencies": {}
