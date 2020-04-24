@@ -6,3 +6,6 @@ node_modules
 public/
 dist/
 .DS_Store
+
+# Local Now folder
+.now
